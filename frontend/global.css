@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-dark-border-default;
+  }
+
+  body {
+    @apply bg-dark-bg-primary text-dark-text-primary;
+  }
+}

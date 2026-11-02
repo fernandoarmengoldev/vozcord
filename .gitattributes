@@ -1,0 +1,8 @@
+# Normalizar finales de línea (el proyecto mezclaba CRLF y LF)
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.pdf binary
+*.zip binary
+*.jar binary
+*.keystore binary

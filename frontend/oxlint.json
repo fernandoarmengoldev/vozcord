@@ -1,0 +1,8 @@
+{
+  "extends": ["recommended"],
+  "ignorePatterns": ["node_modules", "dist", "build"],
+  "rules": {
+    "no-unused-vars": "error",
+    "no-console": "warn"
+  }
+}

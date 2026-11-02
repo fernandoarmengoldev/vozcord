@@ -1,0 +1,78 @@
+# dependencies (bun install)
+node_modules
+
+# output
+out
+dist
+*.tgz
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs
+_.log
+report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
+
+# dotenv environment variable files (keep sample files such as .env.example)
+.env
+.env.*
+!.env.example
+
+# caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# NX
+.nx/cache
+.nx/workspace-data
+
+# IntelliJ based IDEs
+.idea
+
+# Finder (MacOS) folder config
+.DS_Store
+
+.windsurf/
+.claude/
+CLAUDE.md
+
+# Expo
+node_modules/
+.expo/
+.yarn/
+dist/
+npm-debug.*
+*.pem
+*.jks
+*.p8
+*.p12
+*.pfx
+*.key
+*.keystore
+*.mobileprovision
+*.orig.*
+web-build/
+cache/
+
+# Expo prebuild generated folders
+frontend/android/
+frontend/ios/
+
+# Uploaded files
+backend/uploads/
+
+# SSL Certificates
+backend/certs/
+
+# Copias antiguas
+*_old.zip
+*.zip
+
+# Informe local con datos personales
+/Memoria Vozcord by Fernando D. Armengol Gonzalez.pdf
+
+# Docker
+docker-compose.override.yml
