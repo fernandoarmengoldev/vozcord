@@ -1,21 +1,6 @@
 # Vozcord
 
-![Vozcord](foto.avif)
-
-Vozcord is a cross-platform, real-time communication app for text, voice, and video. The frontend targets web and native platforms, while the backend provides authentication, chat APIs, WebSocket connections, and WebRTC media rooms.
-
-## Features
-
-- User registration, sign-in, profiles, and avatar uploads
-- Servers, text and voice channels, and member management
-- Real-time channel chat and direct messages
-- Voice and video rooms powered by WebRTC
-- Optional speech transcription through the Fireworks AI API
-- Responsive web interface and Expo-based Android and iOS apps
-
-## Technology stack
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -29,6 +14,19 @@ Vozcord is a cross-platform, real-time communication app for text, voice, and vi
   <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
+![Vozcord](foto.avif)
+
+Vozcord is a cross-platform, real-time communication app for text, voice, and video. The frontend targets web and native platforms, while the backend provides authentication, chat APIs, WebSocket connections, and WebRTC media rooms.
+
+## Features
+
+- User registration, sign-in, profiles, and avatar uploads
+- Servers, text and voice channels, and member management
+- Real-time channel chat and direct messages
+- Voice and video rooms powered by WebRTC
+- Optional speech transcription through the Fireworks AI API
+- Responsive web interface and Expo-based Android and iOS apps
 
 ### Frontend
 
